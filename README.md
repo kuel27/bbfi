@@ -1,6 +1,6 @@
 # BBFI-2
 
-https://beatbounce.fi
+This is the source code for the website running at [beatbounce.fi](https://beatbounce.fi).
 
 ## Installation
 
